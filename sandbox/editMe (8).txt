@@ -1,3 +1,3 @@
-Name:
-email:
-gitaccount:
+Name: Adrian AIza Arrazola
+email: adrianlastword@gmail.com
+gitaccount: AdrianAiza02
