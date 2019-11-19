@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  Add Name:
  Add email:
  Add gitaccount:
@@ -7,3 +8,8 @@ Name: Adrian AIza Arrazola
 email: adrianlastword@gmail.com
 gitaccount: AdrianAiza02
 >>>>>>> txt-8 aiza
+=======
+Name: Adrian AIza Arrazola
+email: adrianlastword@gmail.com
+gitaccount: AdrianAiza02
+>>>>>>> 2eec415a93e07236d45b86d8e8a000eedf173829
